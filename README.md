@@ -1,2 +1,2 @@
-# shell-scripting-devops
-Shell Scripting Practice
+
+# Shell Scripting Practices 📝
